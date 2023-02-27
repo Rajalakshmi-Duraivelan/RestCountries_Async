@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+#wrapper{
+    background-color: cornsilk;
+}
+.card-header{
+    background-color: rgb(20, 20, 20);
+    color: white;
+}
+.cardbg {
+    background-image:  linear-gradient(to right, #c9c7c6, #8b8a89, #7e7d7c, #5a5c5a, #4f5050);
+    height: auto;
+}
